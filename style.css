@@ -1,0 +1,25 @@
+body {
+    background-color: dimgrey;
+}
+
+.buttonHolder {
+    text-align: center;
+    padding: 10px;
+}
+
+#button {
+    padding: 10px 20px;
+    background-color: black;
+    color: lightgrey;
+}
+
+#grid {
+    display: grid;
+    margin: auto;
+    width: 700px;
+    height: 700px;
+}
+
+.boxen {
+    background-color: black;
+}
